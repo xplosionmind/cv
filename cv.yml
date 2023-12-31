@@ -1,0 +1,190 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
+
+personal:
+  name: Tommaso Marmo
+  email: lost.in@tommi.space
+  phone: +39 377 305 5865
+  url: https://tommi.space
+  location:
+    city: Berlin
+    region: Berlin
+    postalCode: 10245
+    country: Germany
+  profiles:
+    - network: LinkedIn
+      username: Tommaso Marmo
+      url: https://linkedin.com/in/tommaso.marmo
+    - network: Fediverse
+      username: '@tommi@pan.rent'
+      url: https://pan.rent/@tommi
+
+work:
+  - organization: Free Software Foundation Europe (FSFE)
+    position: Full time Intern
+    url: https://fsfe.org
+    location: Berlin, Germany
+    startDate: 2023-11-01
+    endDate: 2024-04-30
+    highlights:
+      - Fully managing all the FSFE social media accounts
+      - Connecting with individuals and organizations to promote the FSFE’s campaigns and events
+      - Handling deliveries of promotion material, working with the office assistant to manage all the foundation storage
+  - organization: Scambi Festival
+    position: Founder and Volunteer President (currently just Member)
+    url: https://scambi.org/en
+    location: Sanremo, Italy
+    startDate: 2020-09-01
+    endDate: 2023-09-30
+    highlights:
+      - Conceiving from scratch a cultural event in a difficult neighborhood of a little city
+      - Managing a team of 30+ international volunteers
+      - Autonomously administering an association with 15k Euro of annual budget
+      - Instituting a tight link between local and international non-profits, enterprises, and individuals
+
+education:
+  - institution: Ca’ Foscari University
+    url: https://unive.it/pise
+    area: Philosophy, International Studies and Economics
+    studyType: Bachelor
+    startDate: 2020-09-01
+    endDate: 2023-07-27
+    location: Venezia, Italy
+    honors:
+      - 110 cum laude
+    courses:
+      - Philosophy
+      - Sociology
+      - Macroeconomics
+      - International Relations
+      - Geopolitics
+      - Contemporary History
+    highlights:
+      - '*Thesis*: #link("https://tommi.space/csss")[_*Computer Sciences are Social Sciences*, An enquiry concerning the need of a philosophical approach to the digital domain_]'
+      - '*Erasmus* mobility: one semester abroad at #link("https://www.univ-grenoble-alpes.fr")[_Université Grenoble-Alpes_] and #link("https://www.sciencespo-grenoble.fr")[_*Sciences Po* Grenoble_]'
+      #- "*Activities*: Creating a website collecting all the notes of the degree, gathered from all students; close relationship with professors in defining the future of the course"
+  - institution: Polytechnic of Turin (PoliTo)
+    url: https://polito.it
+    area: Computer Engineering
+    studyType: Bachelor of Science
+    startDate: 2019-10-01
+    endDate: 2020-07-30
+    location: Torino, Italy
+    honors:
+      - 'average grade: 27.5'
+    courses:
+      - Intro to Computer Sciences
+      - Mathematical Analysis I
+      - Philosophy of Engineering
+    highlights:
+      - "Dropped out after the first semester."
+
+affiliations:
+  - organization: AGESCI (Italian Scouts)
+    position: Unit chief
+    location: Venezia and Sanremo, Italy
+    url: https://agesci.it
+    startDate: 2008-10-01
+    endDate: 2023-09-01
+    highlights:
+      - Organizing and conducting activities for kids from 7 to 17 years old
+      - Respecting and transmitting the scouting values through acts of service, volunteering, and continuous education
+  - organization: Club Tenco
+    position: Member
+    location: Sanremo, Italy
+    url: https://clubtenco.it
+    startDate: 2017-09-01
+    endDate: present
+    highlights:
+      - Managing the stage and the backstage of a three-day music concert with 50+ international songwriters
+      - Participating to the governance of the most prominent and renowned institution for songwriting in Italy
+#  - organization: 'LIBERA: Associazioni, Nomi e Numeri Contro le Mafie'
+#    position: Member
+#    location: Sanremo, Italy
+#    url: https://libera.it
+#    startDate: 2017-04-01
+#    endDate: present
+#    highlights:
+#  - organization: Wikimedia Italia
+#    position: Member
+#    location: Italy
+#    url: https://wikimedia.it
+#    startDate: 2019-01-01
+#    endDate: present
+#    highlights:
+
+awards:
+  - title: Winner of the Advanced Category
+    date: 2018-05-24
+    issuer: Monaco Mouse Trap Grand Prix
+    url: https://mousetraprace.com
+    location: Monte Carlo, Monaco
+    highlights:
+      - Designing, realizing, and running a little car powered only by a mouse trap
+
+certificates:
+#  - name: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
+#    date: 2021-09-01
+#    issuer: Coursera
+#    url: https://example.com
+
+publications:
+
+projects:
+#  - name: "Job Tailor"
+#    url: https://example.com/
+#    affiliation: Open University
+#    startDate: 2020-11-01
+#    endDate: 2021-04-30
+#    highlights:
+
+skills:
+  - category: Soft Skills
+    skills:
+      - Public Speaking
+      - Project management
+      - Problem solving
+      - Leadership
+      - Creative Writing
+      - Children education
+  - category: Computer skills
+    skills:
+      - Linux system administration (self-hosting)
+      - Basic JavaScript
+      - Basic Python
+      - LaTeX
+      - Typst
+  - category: Tools
+    skills:
+      - Full Linux proficiency
+      - GIMP
+      - Inkscape
+      - git
+      - Visual Studio Code
+  - category: Web Development
+    skills:
+      - HTML
+      - CSS
+      - Liquid
+      - Eleventy
+
+languages:
+  - language: Italian
+    fluency: Native speaker
+  - language: English
+    fluency: C2
+  - language: French
+    fluency: C1
+  - language: German
+    fluency: A1
+  - language: Spanish
+    fluency: A1
+
+interests:
+  - Bouldering, Climbing, Hiking
+  - Music, Songwriting, DJing
+  - Party planning and networking
+
+references:
+  - name: Prof. Fabrizio Turoldo
+    reference: On all the occasions when Tommaso has attended my courses and my cultural initiatives, he has always proved to be one of the most interested, most prepared, smartest and most collaborative students.
+    url: https://unive.it/data/people/5592471
