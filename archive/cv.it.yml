@@ -1,0 +1,207 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
+
+personal:
+  name: Tommaso Marmo
+  email: lost.in@tommi.space
+  phone: +39 377 305 5865
+  url: https://tommi.space
+  location:
+    city: Riva Ligure
+    region: IM
+    postalCode: 18015
+    country: Italia
+  profiles:
+    - network: LinkedIn
+      username: Tommaso Marmo
+      url: https://linkedin.com/in/tommaso.marmo
+    - network: Fediverso
+      username: '@tommi@pan.rent'
+      url: https://pan.rent/@tommi
+
+work:
+  - organization: Free Software Foundation Europe (FSFE)
+    position: Tirocinante a tempo pieno
+    url: https://fsfe.org
+    location: Berlino, Germania
+    startDate: 2023-11-01
+    endDate: 2024-04-30
+    highlights:
+      - Utilizzo, promozione e divulgazione del Software Libero
+      - Gestione completa di tutti i profili di FSFE sui social media
+      - Confronto continuativo con individui e organizzazioni in tutta Europa per promuovere attività ed eventi di FSFE
+      - Gestione di spedizioni di materiale promozionale, gestione del garage e dell’archivio
+  - organization: Giffoni Film Festival
+    position: Presentatore e content creator
+    url: https://www.giffonifilmfestival.it/
+    location: Giffoni Valle Piana (SA)
+    startDate: 2020-08-01
+    endDate: 2020-08-31
+    highlights:
+      - Creazione contenuti digitali audiovisivi
+      - Moderazione di dibattiti su film in concorso e fuori concorso
+
+education:
+  - institution: Università Ca’ Foscari
+    url: https://unive.it/pise
+    area: Philosophy, International Studies and Economics
+    studyType: Laurea triennale
+    startDate: 2020-09-01
+    endDate: 2023-07-27
+    location: Venezia
+    honors:
+      - 110 cum laude
+    courses:
+      - Filosofia
+      - Sociologia
+      - Macroeconomia
+      - Relazioni Internazionali
+      - Geopolitica
+      - Storia Contemporanea
+    highlights:
+      - '*Tesi*: #link("https://tommi.space/csss")[_*Computer Sciences are Social Sciences*, An enquiry concerning the need of a philosophical approach to the digital domain_]'
+      - '*Erasmus*: un semestre all’estero presso #link("https://www.univ-grenoble-alpes.fr")[_Université Grenoble-Alpes_] e #link("https://www.sciencespo-grenoble.fr")[_*Sciences Po* Grenoble_]'
+      #- "*Activities*: Creating a website collecting all the notes of the degree, gathered from all students; close relationship with professors in defining the future of the course"
+  - institution: Politecnico di Torino
+    url: https://polito.it
+    area: Computer Engineering
+    studyType: Laurea triennale
+    startDate: 2019-10-01
+    endDate: 2020-07-30
+    location: Torino
+    honors:
+      - 'Media: 27.5'
+    courses:
+      - Intro to Computer Sciences
+      - Mathematical Analysis I
+      - Philosophy of Engineering
+    highlights:
+      - "Corso abbandonato dopo il primo anno di studi."
+
+affiliations:
+  - organization: Scambi Festival
+    position: Fondatore e presidente
+    location: Sanremo
+    url: https://scambi.org/
+    startDate: 2020-09-01
+    endDate: presente
+    highlights:
+      - Ideazione e realizzazione di eventi culturali in ogni loro aspetto
+      - Coordinamento di un team di 50+ soci e volontari internazionali
+      - Amministrazione e contabilità di un’associazione con un bilancio annuale di 15mila Euro
+      - Intessitura di relazioni con enti locali e internazionali
+  - organization: Club Tenco
+    position: Socio
+    location: Sanremo
+    url: https://clubtenco.it
+    startDate: 2017-09-01
+    endDate: presente
+    highlights:
+      - Gestione del palco e del retro-palco della Rassegna della Canzone d’Autore Italiana, al teatro Ariston di Sanremo
+      - Partecipazione nelle scelte artistiche e nell’organizzazione della più importante istituzione per il cantautorato in Italia
+  - organization: 'LIBERA: Associazioni, Nomi e Numeri Contro le Mafie'
+    position: Socio fondatore del presidio “Rosario Livatino”
+    location: Sanremo
+    url: https://libera.it
+    startDate: 2017-04-01
+    endDate: presente
+    highlights:
+  - organization: Wikimedia Italia
+    position: Socio
+    location: Italia
+    url: https://wikimedia.it
+    startDate: 2019-01-01
+    endDate: presente
+    highlights:
+  - organization: Banca Etica
+    position: Socio
+    location: Italia
+    url: https://bancaetica.it
+    startDate: 2022-07-20
+    endDate: presente
+    highlights:
+  - organization: Associazione Guide e Scout Cattolici Italiani (AGESCI)
+    position: Capo unità
+    location: S. Stefano al Mare (IM), Oriago di Mira (VE)
+    url: https://agesci.it
+    startDate: 2008-10-01
+    endDate: 2022-09-01
+    highlights:
+      - Organizzazione e svolgimento di attività con bambini dai 7 ai 17 anni
+      - Rispetto e condivisione dei valori dello scoutismo con atti di servizio, volontariato e formazione continua
+
+awards:
+#  - title: Winner of the Advanced Category
+#    date: 2018-05-24
+#    issuer: Monaco Mouse Trap Grand Prix
+#    url: https://mousetraprace.com
+#    location: Monte Carlo, Monaco
+#    highlights:
+#      - Designing, realizing, and running a little car powered only by a mouse trap
+
+certificates:
+#  - name: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
+#    date: 2021-09-01
+#    issuer: Coursera
+#    url: https://example.com
+
+publications:
+
+projects:
+#  - name: "Job Tailor"
+#    url: https://example.com/
+#    affiliation: Open University
+#    startDate: 2020-11-01
+#    endDate: 2021-04-30
+#    highlights:
+
+skills:
+  - category: Competenze
+    skills:
+      - parlare in pubblico
+      - gestione progetti
+      - problem solving
+      - leadership
+      - scrittura creativa
+      - attività con bambini
+  - category: Competenze informatiche
+    skills:
+      - Amministrazione sistemi Linux
+      - Bash
+      - Basi di JavaScript
+      - Basi di Python
+      - LaTeX
+      - Typst
+  - category: Strumenti
+    skills:
+      - Massima dimestichezza con Linux
+      - GIMP
+      - Inkscape
+      - git
+      - Visual Studio Code
+      - Adobe Lightroom e Photoshop
+  - category: Sviluppo web
+    skills:
+      - HTML
+      - CSS
+      - JavaScript
+      - Liquid
+      - Eleventy
+
+languages:
+  - language: Italiano
+    fluency: Lingua madre
+  - language: Inglese
+    fluency: C2
+  - language: Francese
+    fluency: C1
+
+interests:
+  - Fediverso e Internet decentralizzato
+  - arrampicata ed escursionismo
+  - cantautorato
+  - organizzazione di eventi culturali
+
+references:
+  - name: Prof. Fabrizio Turoldo
+    reference: In tutte le occasioni in cui Tommaso ha partecipato ai miei corsi ed alle mie iniziative culturali, ha sempre provato di essere uno degli studenti più interessati, più preparati, più intelligenti e più intraprendenti.
+    url: https://unive.it/data/persone/5592471
